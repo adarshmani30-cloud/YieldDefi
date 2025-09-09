@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d64e7bc3de959c4abf1d416e612d6da
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317535
+  packageName: zResponsive template for WebGL
+  packageVersion: 1.0.0
+  assetPath: Assets/WebGLTemplates/zResponsive/index.html
+  uploadId: 752965

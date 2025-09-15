@@ -11,7 +11,7 @@
 
 ## ✨ Features  
 
-- ✅ **Blockchain-first UX:** Mint NFT or claim tokens **only after on-chain success** (via `BlockchainManager` → `ClaimDropERC20`).  
+- ✅ **Blockchain-first UX:** Mint NFT or claim tokens **only after on-chain success**.
 - 🎯 **Trigger-gated interactions:** Buttons only appear when inside designated trigger zones.  
 - 💫 **Juicy UI with DOTween:** Pop-in/out animations for smooth UI transitions.  
 - 🌀 **Teleportation system:** Enter trigger → instantly move to destination (works with `NavMeshAgent`, `CharacterController`, or `Rigidbody`).  
@@ -53,7 +53,7 @@ Key layers:
 ### Requirements  
 - Unity **2022.3+**  
 - [DOTween Pro](http://dotween.demigiant.com/)  
-- A deployed ERC-20 / ClaimDrop contract  
+- A deployed Contract Address
 
 ### Steps  
 1. Clone repo & open in Unity.  

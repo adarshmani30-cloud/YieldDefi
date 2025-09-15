@@ -41,7 +41,7 @@ Key layers:
 
 ## 🧱 Smart Contracts  
 
-- **ClaimDrop (ERC-20):**  
+- **Contract Address:**  
   `0x754F014dFC79eE5b3bd4335637622Ce03f26bBd9`  
 
 - **Future-ready staking contract** integrated for extension.  
